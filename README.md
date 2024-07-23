@@ -1,8 +1,8 @@
 # Virat-kohli-dashboard
 
 
-* I Used Dataset from kaggle *
-# link- https://www.kaggle.com/datasets/akashkotal/virat-kholi-testodit20-stat
+*I Used Dataset from kaggle*
+*link- https://www.kaggle.com/datasets/akashkotal/virat-kholi-testodit20-stat*
 
 
 **Solved 4 Problem Statements and Analysed Runs in all Formats**
